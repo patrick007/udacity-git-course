@@ -1,0 +1,6 @@
+What happens when you initialize a repository?
+a .git file gets created.
+git registered the directory in the unified file system
+
+Why do you need it?
+To track changes, history of your changes, create feature branches for development and testing
