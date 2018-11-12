@@ -2,5 +2,7 @@ reflection lesson one:
 creating a repository with:
 git init inside the new directory
 doesn't create any commit
-feature commit 1
-feature commit 2
+feature commit1
+feature commit2
+master commit1
+master commit2
