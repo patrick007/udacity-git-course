@@ -3,3 +3,4 @@ creating a repository with:
 git init inside the new directory
 doesn't create any commit
 feature commit 1
+feature commit 2
